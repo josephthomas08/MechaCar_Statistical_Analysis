@@ -95,23 +95,47 @@ Sample T-Test of Whole Data
 <img width="628" alt="Module 15 D3 1" src="https://user-images.githubusercontent.com/75267605/114290414-9c472680-9a4d-11eb-99cc-720e22e897b7.png">
 
 
-The key point  to watch out  in the above image  is the p-value of 0.06 which is higher than the assumed significance level of 0.05 therefore we dont have sufficient evidence to reject our null hypothesis and we would say that the two means are statistically similar.
+##### Note : The key point  to watch out  in the above image  is the p-value of 0.06 which is higher than the assumed significance level of 0.05 therefore we dont have sufficient evidence to reject our null hypothesis and we would say that the two means are statistically similar.
 
 ### D3.2 An RScript is written for three t-tests that compare each manufacturing lot against mean PSI of the population 
 
 #### Lot 1
 
+
 <img width="802" alt="Module 15 D3 2A" src="https://user-images.githubusercontent.com/75267605/114290442-ce588880-9a4d-11eb-844b-72cc1a6aabc1.png">
 
+
+
+
 #### Lot 2
+
+
 <img width="815" alt="Module 15 D3 2B" src="https://user-images.githubusercontent.com/75267605/114290447-d7e1f080-9a4d-11eb-9cc4-ecf01d2f4388.png">
 
 
+
+
 #### Lot 3
+
+
+
 <img width="804" alt="Module 15 D3 2C" src="https://user-images.githubusercontent.com/75267605/114290451-dd3f3b00-9a4d-11eb-8a24-be0c5320fe8c.png">
 
 
+
+
+
+
 ### D3.3 There is a summary of the t-test results across all manufacturing lots and for each lot 
+
+##### Note Lot 1:The p-value of Lot 1 is '1' which is higher than our assumed significance level of 0.05 hence we dont have sufficient evidence to reject our null hypothesis and we would state that the two means are statistically similar.
+
+
+##### Note Lot 2:The p-value of Lot 2 is '0.6072' which is higher than our  assumed significance level of 0.05 hence  we dont have sufficient evidence to reject our null hypothesis and we would say that the two means are statistically similar.
+
+##### Note Lot 3: The p-value of Lot 3 is '0.042' which is slightly lower thanour  assumed significance level of 0.05 therefore we would say that the two means are slightly different.
+
+
 
 
 
