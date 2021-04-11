@@ -141,7 +141,20 @@ Sample T-Test of Whole Data
 
 ## Deliverable 4 
 
-### 4.1 A metric to be tested is mentioned 
-### 4.2 A null hypothesis or an alternative hypothesis is described 
-### 4.3 A statistical test is described to test the hypothesis
-### 4.4 The data for the statistical test is described 
+
+###  Design: MechaCar vs Competition
+The study was conducted to quantify the performance of MechaCar against the competition, we will be studying the fuel consumption of the vehicles in the city area as  this is one of the most important factors for the city commuters. FOr this study, we will take the MPG (Miles Per Gallon) values in the city area of MechaCar and its competition.
+
+Hence the metric to be tested is "MPG".
+
+The other alternate hypothesis will be:
+
+MechaCar will consume less fuel in its category of vehicles
+
+We use the following statistical tests and the data:
+
+The Fuel consumption of MechaCar and its competition at different driving conditions like at 10 mph , 50 mph and consumption at acceleration  will be done to check the MPG of each vehicle and then check the summary statistics to see Mean, Median and Std deviation.
+Two sample T-test: We would specifically watch and record the p-value to check if there is any statistical difference between the means of two samples (MechaCar and Competition)
+
+
+Alternative We can make a null hypothesis stating that it is not different from the competition and our Alternative would be the opposite. To engage  this we will additionaly need to use our t-test after collecting data from different types of competitor vehicles. Our t-test will be comparing the population of all types of competitor vehicles.
