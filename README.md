@@ -1,6 +1,14 @@
 # MechaCar_Statistical_Analysis
-Statistical Analysis using R
+## Statistical Analysis using R
 
+## Project Overview 
+The MechaCar Project invloves use of Stats and Hypothesis testing to analyze sets of datasets from the automative industry 
+The statistical analysis and visualizations is written in the R programming language.
+
+## Resources
+Data Source: MechaCar_mpg.csv, Suspension_Coil.csv
+Software: RStudio
+Version 1.4.1106
 
 ## Deliverable 1 
 
@@ -31,6 +39,9 @@ Statistical Analysis using R
 
 <img width="899" alt="Module 15 D1 3" src="https://user-images.githubusercontent.com/75267605/114289963-d9a9b500-9a49-11eb-99a1-7c0fdf2b24d6.png">
 
+The summary o/p image, each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. The results further emphasizes that vehicle length and ground clearance as well intercept extends a non-random amount of variance to the linear model of mpg. 
+
+
 
 ### D1.4 There is a summary that addresses all three questions
 
@@ -39,6 +50,9 @@ The above captured image from R analytical tool provides us with sufficent evide
 The p-value is 5.35e-11 which is much smaller than our assumed significance value of 0.05, hence we have sufficient evidence that slope of our linear model is not 0.
 
 The r-squared value is 0.7 which as we understand predicts that  the future data points will fit to our linear model therefore  we can safely consider that this model effectively predcits the MPG of MechaCar prototypes.
+
+Further R-square which .71 hence 71% of all the variations on mpg could be associated with the changes in the vehcile lenght, weight, drivetrain, spoiler angle and the ground clearance.
+
 
 
 
