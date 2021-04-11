@@ -158,3 +158,6 @@ Two sample T-test: We would specifically watch and record the p-value to check i
 
 
 Alternative We can make a null hypothesis stating that it is not different from the competition and our Alternative would be the opposite. To engage  this we will additionaly need to use our t-test after collecting data from different types of competitor vehicles. Our t-test will be comparing the population of all types of competitor vehicles.
+
+[link to MechCarChallenge.r file](https://github.com/josephthomas08/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R)
+
